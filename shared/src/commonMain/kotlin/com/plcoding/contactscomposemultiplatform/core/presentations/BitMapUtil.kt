@@ -1,4 +1,4 @@
-package com.plcoding.contactscomposemultiplatform.core.Presentations
+package com.plcoding.contactscomposemultiplatform.core.presentations
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.ImageBitmap
